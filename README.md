@@ -777,5 +777,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📸 Application Preview
 
-The EduVision dashboard integrates classroom behavior analysis,
-student focus monitoring, stress analysis, and academic performance insights.
+The EduVision dashboard integrates classroom behavior analysis, student focus monitoring, stress analysis, and academic performance insights.
+
+![EduVision Application Dashboard](streamlit.png)
